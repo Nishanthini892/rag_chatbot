@@ -1,0 +1,8 @@
+1.Install Required Libraries in Terminal
+pip install streamlit pymupdf python-docx sentence-transformers qdrant-client
+
+2. Run Qdrant Locally
+docker run -p 6333:6333 qdrant/qdrant
+
+3. Run Your Streamlit App
+streamlit run app.py
