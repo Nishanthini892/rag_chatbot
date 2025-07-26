@@ -10,7 +10,7 @@ model = SentenceTransformer("all-MiniLM-L6-v2")
 
 create_collection()
 
-st.title("📚 RAG Chatbot - Local Docs")
+st.title("📚 RAG Chatbot")
 
 uploaded_file = st.file_uploader("Upload PDF or DOCX", type=["pdf", "docx"])
 
