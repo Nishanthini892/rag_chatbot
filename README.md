@@ -71,7 +71,6 @@ streamlit run app.py
 
 ##  OUTPUT LINK:
 https://drive.google.com/file/d/1PGxW2xqDEhx-Y00GUOfwTTtNLbXtRE_G/view?usp=sharing
-
 ##  Credits
 
 Built By
