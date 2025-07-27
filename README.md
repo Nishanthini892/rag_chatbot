@@ -70,8 +70,7 @@ streamlit run app.py
 - This project does not require internet after models are downloaded.
 
 ##  OUTPUT LINK:
-https://drive.google.com/file/d/1BWNKWJvJC4veJpWTfGyRxocRueNHGWEv/view?usp=sharing
-
+https://drive.google.com/file/d/1PGxW2xqDEhx-Y00GUOfwTTtNLbXtRE_G/view?usp=sharing
 
 ##  Credits
 
